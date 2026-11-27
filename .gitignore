@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated batch review queue output images
+review_queue/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
